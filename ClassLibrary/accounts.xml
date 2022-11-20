@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<accounts>
+	<account>
+		<name>вікторія</name>
+		<surname>гаврищук</surname>
+		<login>vikagvr</login>
+		<password>vikakot</password>
+		<cardnumber>112233</cardnumber>
+		<balance>3230</balance>
+	</account>
+	<account>
+		<name>Anastasia</name>
+		<surname>Kovtonyk</surname>
+		<login>nastya2004</login>
+		<password>20042004</password>
+		<cardnumber>12812818274</cardnumber>
+		<balance>3300</balance>
+	</account>
+	<account>
+		<name>Karina</name>
+		<surname>Polishchuk</surname>
+		<login>PlKarina</login>
+		<password>karina111</password>
+		<cardnumber>738823293983</cardnumber>
+		<balance>0</balance>
+	</account>
+</accounts>
